@@ -14,6 +14,4 @@ public class Start {
         cow.animalSound();
     }
 
-
-
 }
